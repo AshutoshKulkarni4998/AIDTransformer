@@ -1,6 +1,6 @@
 # Aerial Image Dehazing with Attentive Deformable Transformers [WACV-23]
 
-[![paper](https://img.shields.io/badge/Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/WACV2023/papers/Kulkarni_Aerial_Image_Dehazing_With_Attentive_Deformable_Transformers_WACV_2023_paper.pdf)
+[![paper](https://img.shields.io/badge/Conference-Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/WACV2023/papers/Kulkarni_Aerial_Image_Dehazing_With_Attentive_Deformable_Transformers_WACV_2023_paper.pdf)
 [![supplement](https://img.shields.io/badge/Supplementary-Material-red)](https://openaccess.thecvf.com/content/WACV2023/supplemental/Kulkarni_Aerial_Image_Dehazing_WACV_2023_supplemental.pdf)
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://drive.google.com/file/d/1pnQ7vyX_bjveLv9r29ah-pofkpiJY5Ry/view?usp=share_link)
 
